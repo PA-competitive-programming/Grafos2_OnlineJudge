@@ -16,7 +16,7 @@ Descreva os objetivos do seu projeto e como ele funciona.
 
 ## Screenshots
 
-### Exercício 1 - Clone Graph
+### Exercício 1 - Min Cost to Connect All Points
 
 Dificuldade: Médio <br>
 Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)<br>
