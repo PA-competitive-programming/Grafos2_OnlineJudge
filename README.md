@@ -25,6 +25,15 @@ O problema consiste em modelar um conjunto de pontos como nós em um grafo, onde
 
 ![](assets/img/ex1.png)
 
+### Exercício 2 - Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
+
+Dificuldade: Difícil <br>
+Link: [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)<br>
+Solução: [Código](assets/codes/find_pseudo.py)<br>
+Para resolver o problema, utilizamos uma combinação do algoritmo Union-Find (ou Disjoint Set Union, DSU) com Kruskal para calcular a Árvore de Extensão Mínima (MST) de um grafo ponderado não direcionado.
+
+![](assets/img/ex2.png)
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
