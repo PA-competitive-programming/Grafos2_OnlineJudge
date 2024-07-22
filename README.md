@@ -15,7 +15,7 @@
 Repositório com resoluções de problemas de grafos do [LeetCode](https://leetcode.com/).
 
 ## Apresentação
-[![Video Thumbnail](assets/img/thumb.png)](assets/apresentacao_grafos2)
+[![Video Thumbnail](assets/img/thumb.png)](https://www.youtube.com/watch?v=Smuis8YBny0)
 
 ## Screenshots
 
