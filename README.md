@@ -4,13 +4,15 @@
 **Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
+
 |Matrícula | Aluno |
 | -- | -- |
 | 18/0097181  |  Ana Beatriz Santos |
 | 20/0023748  |  Marcos Santos Bittar |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
+
+Repositório com resoluções de problemas de grafos do [LeetCode](https://leetcode.com/).
 
 ## Apresentação
 
@@ -34,13 +36,20 @@ Para resolver o problema, utilizamos uma combinação do algoritmo Union-Find (o
 
 ![](assets/img/ex2.png)
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### Exercício 3 - Minimum Time to Visit Disappearing Nodes
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Dificuldade: Médio <br>
+Link: [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/description/)<br>
+Solução: [Código](assets/codes/min_time.py)<br>
+Para resolver o problema, usamos o algoritmo de Dijkstra para calcular a menor distância dos nós a partir do nó inicial (nó 0). A ideia é usar uma fila de prioridade para explorar os nós com menor custo e verificar se podemos alcançar cada nó antes que ele desapareça.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+![](assets/img/exe3.png)
+
+## Instalação
+
+**Linguagem**: Python<br>
+Você precisará apenas criar uma conta no [LeetCode](https://leetcode.com/).
+
+## Uso
+
+Para executar o trabalho basta abrir o link do exercício e copiar e colar o código.
