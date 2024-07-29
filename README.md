@@ -46,10 +46,20 @@ Para resolver o problema, usamos o algoritmo de Dijkstra para calcular a menor d
 
 ![](assets/img/exe3.png)
 
+### Exercício 4 - Minimum Time to Visit Disappearing Nodes
+
+Dificuldade: fácil <br>
+Link: [Labyrinth](https://cses.fi/problemset/task/1193/)<br>
+Solução: [Código](assets/codes/labirinto.cpp)<br>
+Para resolver o problema, usamos o algoritmo de busca em largura para identificar se há um caminho para sair do labirinto
+
+![](assets/img/exe4.png)
+
 ## Instalação
 
 **Linguagem**: Python<br>
 Você precisará apenas criar uma conta no [LeetCode](https://leetcode.com/).
+Para o exercício no CSES, precisará de uma conta no [CSES](hhttps://cses.fi/problemset).
 
 ## Uso
 
