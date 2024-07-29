@@ -53,7 +53,7 @@ Link: [Labyrinth](https://cses.fi/problemset/task/1193/)<br>
 Solução: [Código](assets/codes/labirinto.cpp)<br>
 Para resolver o problema, usamos o algoritmo de busca em largura para identificar se há um caminho para sair do labirinto
 
-![](assets/img/exe4.png)
+![](assets/img/ex4.png)
 
 ## Instalação
 
